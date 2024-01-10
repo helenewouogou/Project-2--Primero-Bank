@@ -1,23 +1,28 @@
 # Project-2-Primero-Bank
 
 Project 2: Visualize Data with Excel
+
 Client: Primero Bank
-Context and Mission Challenges:
 
-The mission is commissioned by Primero Bank, a 100% online bank that has been in existence for 5 years. It offers common banking operations similar to traditional banks, with the sole difference being the absence of physical branches.
-The bank also provides four pricing options for cards, with the blue card being free, and the other three cards incurring charges: Silver, Gold, Platinum (introduced six months ago).
-The mission involves conducting preliminary analyses for the development of an action plan following a loss of more than 16% of the bank's clients.
-The objectives of these analyses include:
-Identifying the typical profiles of clients leaving the bank.
-Deriving at least 5 analysis paths for understanding the reasons they departed.
-Identifying among the current clients, the profiles that might leave.
-Methodology/Tools Used: Excel
-Results Achieved: Client profiles that have left and recommendations
+Context and challenges of the assignment
 
-Assessed Skills:
+● The assignment was commissioned by Primero Bank, a 100% online bank that has been in existence for 5 years. It offers current or usual operations like other banks with the only difference being that it has no physical branch.
+It also offers 4 card tariffs: the Blue Card is free and the other 3 cards are chargeable: Silver, Gold, Platinium (the latter was created 6 months ago)
+● The assignment consists of carrying out analyses, preliminary to the drafting of an action plan following the loss of more than 16% of the bank's customers.
 
-Analyze user data by selecting an appropriate methodology.
-Present data to users by employing data visualization techniques.
+● The objectives of these analyses are as follows:
+-Identify the typical profiles of customers leaving the bank
+-To deduce at least 5 avenues of analysis on the reasons why they left the bank
+-Identify the profiles of current customers who could leave the bank. 
+
+Methodology/tools used: Excel
+
+Results: Profile of customers who have left and recommendations
+
+Skills acquired
+- Analyse user data by selecting an appropriate methodology
+- Present data to users using data visualisation techniques
+
 
 
 
