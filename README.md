@@ -8,6 +8,7 @@ Context and challenges of the assignment
 
 ● The assignment was commissioned by Primero Bank, a 100% online bank that has been in existence for 5 years. It offers current or usual operations like other banks with the only difference being that it has no physical branch.
 It also offers 4 card tariffs: the Blue Card is free and the other 3 cards are chargeable: Silver, Gold, Platinium (the latter was created 6 months ago)
+
 ● The assignment consists of carrying out analyses, preliminary to the drafting of an action plan following the loss of more than 16% of the bank's customers.
 
 ● The objectives of these analyses are as follows:
